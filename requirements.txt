@@ -2,3 +2,6 @@ pdfplumber
 pytesseract
 pdf2image
 pillow
+chromadb
+langchain
+fastapi

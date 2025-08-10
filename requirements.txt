@@ -2,6 +2,11 @@ pdfplumber
 pytesseract
 pdf2image
 pillow
-chromadb
-langchain
-fastapi
+fastapi 
+uvicorn 
+python-multipart 
+langchain 
+chromadb 
+ollama 
+sentence-transformers
+langchain_community

@@ -10,3 +10,5 @@ chromadb
 ollama 
 sentence-transformers
 langchain_community
+streamlit 
+requests
